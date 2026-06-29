@@ -37,8 +37,8 @@ dist/
 
 # Model files (optional)
 # Uncomment these if they are very large and shouldn't be uploaded
-# movie_dict.pkl
-# similarity.pkl
+#movie_dict.pkl
+similarity.pkl
 
 # Data files (optional)
 # *.csv
