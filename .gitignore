@@ -39,7 +39,7 @@ dist/
 # Uncomment these if they are very large and shouldn't be uploaded
 #movie_dict.pkl
 similarity.pkl
-
+tmdb_5000_credits
 # Data files (optional)
 # *.csv
 # *.zip
